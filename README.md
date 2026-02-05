@@ -1,0 +1,2 @@
+# Regresyon-Analizi
+YAŞAM TARZI VERİLERİ İLE ÇOK DEĞİŞKENLİ REGRESYON ANALİZİ   
